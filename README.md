@@ -5,7 +5,7 @@
 ## 📍 Contact Information:
 - **Place:** Yemen - Sana’a  
 - **Email:** [moatazqasemqasem2004@gmail.com](mailto:moatazqasemqasem2004@gmail.com) 📧  
-- **Tel:** +967739977000 📱  
+- 
 - **LinkedIn:** [Moataz Qasem](https://www.linkedin.com/in/moataz-qasem-311252285/) 🌐
 - ## 🔗 Links to My Coursera Profiles
 
