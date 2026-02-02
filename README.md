@@ -17,9 +17,6 @@
 
 ## 📱 Connect with Me on WhatsApp
 
-- **[WhatsApp Contact](https://wa.me/967739977000)**
-  - Click this link to directly message me on WhatsApp for any inquiries, collaborations, or networking opportunities. Feel free to reach out!
-
 
 ---
 
