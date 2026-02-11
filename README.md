@@ -1,55 +1,70 @@
-# 🌟 Moataz Qasem - Cybersecurity Professional 🌟
+# 🚀 MOATAZQ24 – Cybersecurity Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Specialist-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/AI-Researcher-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Ethical-Hacker-green?style=for-the-badge&logo=kali-linux" />
-</p>
+👋 Hi! I’m **Moataz Qasem**, a Cybersecurity Specialist | Innovator | Lifelong Learner from Yemen.  
+I build advanced cybersecurity tools, AI-driven solutions, and automation frameworks for real-world security challenges.
 
 ---
 
-## 🧑‍💻 About Me
-I am a **dedicated and results-oriented cybersecurity professional** with a strong passion for **research and innovation**. Currently pursuing a Bachelor's in Cybersecurity and Networks at **Al-Razi University**, I focus on building scalable, privacy-preserving security frameworks.
+## 🔝 Pinned Projects
 
-My expertise lies in **network and web security**, **encryption**, and **risk management**. I am committed to **continuous learning** and leveraging cutting-edge technologies like AI to safeguard digital assets.
+### 1. 🖥️ [Cyber-Security-Portfolio-Hub](https://github.com/MOATAZQ24/Cyber-Security-Portfolio-Hub)  
+![Portfolio Badge](https://img.shields.io/badge/Portfolio-Hub-blue)  
+A curated hub of my professional cybersecurity tools, research, and automation projects.  
+- 🛠️ Automation scripts
+- - 📊 Security dashboards
+  - - 🐳 Docker-ready deployment
+    - - 📄 Documentation & guides
+     
+      - ### 2. 🛡️ [SentinelWAF](https://github.com/MOATAZQ24/SentinelWAF)
+      - ![Docker Badge](https://img.shields.io/badge/Docker-Ready-green)
+      - AI-powered Web Application Firewall to protect apps from OWASP top vulnerabilities.
+      - - 🤖 AI-driven traffic analysis
+        - - 📈 Real-time dashboards
+          - - 🐍 Python & REST API integration
+           
+            - ### 3. 📊 [WatchTowerSIEM](https://github.com/MOATAZQ24/WatchTowerSIEM)
+            - ![Build Badge](https://img.shields.io/badge/Build-Passing-brightgreen)
+            - Centralized SIEM platform for log aggregation and correlation.
+            - - 🔍 Threat detection
+              - - 📊 Log visualization
+                - - 🛠️ Automated alerting
+                 
+                  - ### 4. 🌐 [FortiAPI](https://github.com/MOATAZQ24/FortiAPI)
+                  - ![API Badge](https://img.shields.io/badge/API-Ready-blueviolet)
+                  - Cloud-native API security & bot management tool.
+                  - - 🛡️ API request filtering
+                    - - 🤖 Bot detection
+                      - - 📄 REST API documentation
+                       
+                        - ### 5. 🍯 [HoneyGuard](https://github.com/MOATAZQ24/HoneyGuard)
+                        - ![Honeypot Badge](https://img.shields.io/badge/Honeypot-Active-orange)
+                        - Modular honeypot for threat intelligence gathering.
+                        - - 🕵️‍♂️ Capture attacks in real-time
+                          - - 📈 Analytics dashboard
+                            - - 🐍 Python-based & Docker-ready
+                             
+                              - ### 6. 🧨 [RedOpsLab](https://github.com/MOATAZQ24/RedOpsLab)
+                              - ![RedTeam Badge](https://img.shields.io/badge/RedTeam-Lab-red)
+                              - Red Team offensive security framework for managing scripts, reconnaissance, and exploitation.
+                              - - 🛠️ Modular attack scripts
+                                - - 📊 Automated reporting
+                                  - - 🐳 Docker deployment & API
+                                   
+                                    - ---
 
----
+                                    ## 📫 Contact Me
+                                    - ✉️ Email: moatazqasem2004@gmail.com
+                                    - - 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/moataz-qasem-311252285/)
+                                      - - 🌍 Location: Yemen
+                                       
+                                        - ---
 
-## 🛠️ Technical Skills
-- **Programming:** Python 🐍, JavaScript 📜, HTML/CSS 🎨, C++ 💡
-- **Security Tools:** Wireshark 🌐, Nmap 🔍, Metasploit 💣, Burp Suite 🛡️
-- **Specializations:** Web Application Firewalls (WAF), Threat Analysis, Incident Response
-- **Operating Systems:** Linux (Kali, Ubuntu) 🐧, Windows 🖥️
-
----
-
-## 🚀 Featured Projects
-### 🛡️ [Al-Razi Project Archive](https://github.com/MOATAZQ24/alrazi_project_archive)
-Comprehensive archive of an ethical penetration testing project for Al-Razi University, featuring detailed technical reports and remediation strategies.
-
-### 🤖 [AI-Integrated WAF Research](https://github.com/MOATAZQ24/Research)
-Researching adaptive AI frameworks for scalable and privacy-preserving Web Application Firewalls to enhance threat detection.
-
-### ⚡ [Moataz Security Framework](https://github.com/MOATAZQ24/moataz-security-framework)
-A lightweight terminal-based website audit tool for quick security scans and professional reporting.
-
----
-
-## 🎓 Education & Certifications
-- **Al-Razi University** | Bachelor of Cybersecurity and Networks (In Progress)
-- **Coursera Certifications:**
-  - [General Professional Profile](https://www.coursera.org/user/ab184353280309b8ef7f976a2107350f)
-  - [Cybersecurity Specializations](https://www.coursera.org/user/b317a30588c30388e01d9d97cb9e0a8e)
-
----
-
-## 📍 Connect with Me
-- **Location:** Sana'a, Yemen 🇾🇪
-- **LinkedIn:** [Moataz Qasem](https://www.linkedin.com/in/moataz-qasem-311252285/) 🌐
-- **Email:** [moatazqasem2004@gmail.com](mailto:moatazqasem2004@gmail.com) 📧
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOATAZQ24&show_icons=true&theme=radical" alt="Moataz's GitHub Stats" />
-</p>
+                                        ## 🎯 Skills & Expertise
+                                        - 🛡️ Cybersecurity & Penetration Testing
+                                        - - 🤖 AI & Automation
+                                          - - 🐳 Docker & Deployment
+                                            - - 📊 Security Orchestration & SIEM
+                                              - - ⚡ Threat Intelligence & Red Teaming
+                                               
+                                                - ---
+                                                
